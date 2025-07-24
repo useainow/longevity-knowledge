@@ -80,7 +80,7 @@ python run_agent.py
 ```
 
 Или откройте Google Colab:
- [Открыть в Colab](https://colab.research.google.com/drive/...)
+ [Открыть в Colab]([https://colab.research.google.com/drive/1nKHHftj9cSCMs2s-OJ8-QHXh2mco9plu)]
 
 ##  Примеры запросов и выводов
 
