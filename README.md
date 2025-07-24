@@ -98,7 +98,7 @@ python run_agent.py
 
 ##  Авторы
 
-- **Лиза** (https://github.com/bondoge) — архитектор решений и разработчик инфраструктуры для работы с LLM и графами знаний
+- **Лиза** [@bondoge](https://github.com/bondoge) — архитектор решений и разработчик инфраструктуры для работы с LLM и графами знаний
 - **Людмила** [@useainow](https://github.com/useainow) — AI-продакт и разработчик решений с использованием LLM, автор проекта [ИИ просто](https://t.me/aipluspro)  
 - **Анна** [@AnnaW21](https://github.com/AnnaW21) — исследователь биотехнологий и инженер по знаниям (knowledge engineer) 
 
